@@ -11,28 +11,24 @@ public:
             } else {
                 temp.push_back(nums[j++]);
             }
-
-           
         }
 
-         while (i <= mid) {
-                temp.push_back(nums[i++]);
-            }
-            while (j <= end) {
-                temp.push_back(nums[j++]);
-            }
+        while (i <= mid) {
+            temp.push_back(nums[i++]);
+        }
+        while (j <= end) {
+            temp.push_back(nums[j++]);
+        }
 
         for (int i = st, x = 0; i <= end; i++) {
             nums[i] = temp[x++];
         }
-
-        
     }
 
-   void mergeSort(vector<int>& nums, int st, int end) {
+    void mergeSort(vector<int>& nums, int st, int end) {
 
         if (st >= end) {
-            return ;
+            return;
         }
 
         int mid = st + (end - st) / 2;
@@ -46,7 +42,7 @@ public:
 public:
     vector<int> sortArray(vector<int>& nums) {
         int n = nums.size();
-        mergeSort(nums, 0, n-1);
+        mergeSort(nums, 0, n - 1);
         return nums;
     }
 };
