@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RahulT09/leet-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0561-array-partition](https://github.com/RahulT09/leet-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
+| [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/RahulT09/leet-solutions/tree/master/1470-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RahulT09/leet-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RahulT09/leet-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
