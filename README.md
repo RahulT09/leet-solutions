@@ -118,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/RahulT09/leet-solutions/tree/master/0175-combine-two-tables) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RahulT09/leet-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RahulT09/leet-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
