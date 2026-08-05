@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/RahulT09/leet-solutions/tree/master/1929-concatenation-of-array) |
 | [3731-find-missing-elements](https://github.com/RahulT09/leet-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/RahulT09/leet-solutions/tree/master/3842-toggle-light-bulbs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RahulT09/leet-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RahulT09/leet-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/RahulT09/leet-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
