@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
+| [2396-strictly-palindromic-number](https://github.com/RahulT09/leet-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RahulT09/leet-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RahulT09/leet-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
+| [2396-strictly-palindromic-number](https://github.com/RahulT09/leet-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/RahulT09/leet-solutions/tree/master/0206-reverse-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/RahulT09/leet-solutions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
