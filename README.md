@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
 | [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0912-sort-an-array) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1470-shuffle-the-array](https://github.com/RahulT09/leet-solutions/tree/master/1470-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RahulT09/leet-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RahulT09/leet-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RahulT09/leet-solutions/tree/master/0041-first-missing-positive) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/RahulT09/leet-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/RahulT09/leet-solutions/tree/master/3842-toggle-light-bulbs) |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/RahulT09/leet-solutions/tree/master/2396-strictly-palindromic-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
