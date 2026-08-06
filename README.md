@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RahulT09/leet-solutions/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/RahulT09/leet-solutions/tree/master/3731-find-missing-elements) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
 | [2396-strictly-palindromic-number](https://github.com/RahulT09/leet-solutions/tree/master/2396-strictly-palindromic-number) |
 ## Heap (Priority Queue)
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/RahulT09/leet-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
