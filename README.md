@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0164-maximum-gap](https://github.com/RahulT09/leet-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RahulT09/leet-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/RahulT09/leet-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RahulT09/leet-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/RahulT09/leet-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RahulT09/leet-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/RahulT09/leet-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RahulT09/leet-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulT09/leet-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RahulT09/leet-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
 ## Divide and Conquer
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/RahulT09/leet-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulT09/leet-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/RahulT09/leet-solutions/tree/master/3731-find-missing-elements) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulT09/leet-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/RahulT09/leet-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RahulT09/leet-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
