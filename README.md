@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/RahulT09/leet-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/RahulT09/leet-solutions/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RahulT09/leet-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/RahulT09/leet-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/RahulT09/leet-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/RahulT09/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/RahulT09/leet-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RahulT09/leet-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/RahulT09/leet-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/RahulT09/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/RahulT09/leet-solutions/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulT09/leet-solutions/tree/master/0142-linked-list-cycle-ii) |
