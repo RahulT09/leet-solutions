@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/RahulT09/leet-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/RahulT09/leet-solutions/tree/master/0041-first-missing-positive) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RahulT09/leet-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/RahulT09/leet-solutions/tree/master/0118-pascals-triangle) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/RahulT09/leet-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/RahulT09/leet-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/RahulT09/leet-solutions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/RahulT09/leet-solutions/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/RahulT09/leet-solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
