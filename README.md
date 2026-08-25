@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/RahulT09/leet-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/RahulT09/leet-solutions/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/RahulT09/leet-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RahulT09/leet-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RahulT09/leet-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/RahulT09/leet-solutions/tree/master/3842-toggle-light-bulbs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RahulT09/leet-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/RahulT09/leet-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RahulT09/leet-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RahulT09/leet-solutions/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/RahulT09/leet-solutions/tree/master/3842-toggle-light-bulbs) |
 ## Two Pointers
