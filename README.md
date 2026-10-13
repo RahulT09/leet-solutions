@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/RahulT09/leet-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RahulT09/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/RahulT09/leet-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/RahulT09/leet-solutions/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/RahulT09/leet-solutions/tree/master/0657-robot-return-to-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/RahulT09/leet-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/RahulT09/leet-solutions/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RahulT09/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/RahulT09/leet-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/RahulT09/leet-solutions/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/RahulT09/leet-solutions/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/RahulT09/leet-solutions/tree/master/0611-valid-triangle-number) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/RahulT09/leet-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RahulT09/leet-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/RahulT09/leet-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/RahulT09/leet-solutions/tree/master/0389-find-the-difference) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/RahulT09/leet-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1386-cinema-seat-allocation](https://github.com/RahulT09/leet-solutions/tree/master/1386-cinema-seat-allocation) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RahulT09/leet-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/RahulT09/leet-solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/RahulT09/leet-solutions/tree/master/1386-cinema-seat-allocation) |
 ## Concurrency
 |  |
